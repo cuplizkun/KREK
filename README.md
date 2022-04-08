@@ -21,11 +21,3 @@ pip install simplejson
 pip install requests
 
 pip install futures
-
-git clone https://github.com/Mr404NotFoundd/GXREX
-
-Cara Menjalankan Scripts
-
-cd GXREX
-
-python instagram.py
