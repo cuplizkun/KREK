@@ -1,7 +1,3 @@
-# GXREX
-
-Tool Sederhana Untuk Crack Instagram
-
 Cara Install Scripts
 
 pkg update && pkg upgrade
