@@ -1,0 +1,53 @@
+Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.ht 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Sa
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.25
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML, like Gecko)
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .N
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) 37ab
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML like Gecko) 37a
+Mozilla/
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/6
+Cyberdog/2.0
+Mozilla/5.0 (X11; U; Linux i686; e
+Mozilla/5.0 (X11; U; Linux i686; en; rv:1.8.1.12) Gec
+Mozilla/5.0 (X11; U; Linux x86_64; en; rv:1.9.0.12) Gecko/20080528 F
+Mozilla/5.0 (X11; U; Linux i686; it-it) AppleWebKit/531.2+ (KHT
+Mozilla/5.0 (X11; U; Linux x86_64; fr-fr) AppleWebKit/531.2+ (KHTM
+Mozilla/5.0 (X11; U; Linux x86_64; it-it) AppleWebKit/534.26+ (KH
+Mozilla/5.0 (Android 8.0.0; SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.9 YaaniBrowser
+Mozilla/5.0 (hp-tablet; Linux; hpwOS/3.0.5; U; fr-FR) AppleWebKit/534.6 (KHTML, like Gecko
+Mozilla/5.0 (Linux; webOS/2.1.2; U; xx-xx) AppleWebKit/534.6 (KHTML, like Gecko
+PB1.0b Mozilla/5.0 (Windows NT 6.3)/PirateBrowser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
